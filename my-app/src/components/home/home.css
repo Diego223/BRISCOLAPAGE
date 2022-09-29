@@ -1,0 +1,38 @@
+#Home{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(36, 0, 0) 0%, rgb(98, 1, 1) 25%, hwb(0 0% 0%) 88%);
+
+    display: flex;
+    height: 630px;
+    padding-top: 80px;
+    position: relative;
+
+    margin-left: -8px;
+    margin-right: -8px;
+
+}
+#Hello{
+    margin-bottom: -30px;
+    font-size: 70px;
+    margin-top: -0px;
+}
+
+#Container{
+    margin-top:-30px;  
+    position: absolute; 
+    top: 15%;
+    left: 2%;
+    color: white;
+}
+#Img2{
+    position: absolute;
+    bottom: 0;
+    left:2%;
+
+    width: 24%;
+    height: 50%;
+    margin-bottom: 25px;
+}
+#Img3{
+    margin-left: 35%;
+}
