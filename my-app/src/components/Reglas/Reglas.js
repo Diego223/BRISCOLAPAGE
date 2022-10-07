@@ -1,9 +1,6 @@
 import './Reglas.css'
 import img3 from './../../img/briscacards.jpg'
-
-
-
-
+import { useNavigate } from 'react-router-dom';
 
 const AS = 
 <ul>
@@ -39,6 +36,7 @@ const totalSkills = [AS,TRES,REY,CABALLO,SOTA]
 
 const Skills = () => 
 {
+    const navigate = useNavigate();
     return (
         <div id='skills'>
             <a id='DIS'>
@@ -121,21 +119,7 @@ El orden, de mayor a menor, es el siguiente: as, tres, rey, caballo, sota, siete
             <p id='textoskills'>
             Una vez terminado un juego, cada jugador o pareja sumará el valor de las cartas que forman sus bazas, ganando el juego quien más tantos alcance. Si se juega por parejas, el tanteo es común a ambos jugadores. Puede haber empate en el tanteo, cuando cada jugador o pareja hace 60 tantos, en cuyo caso se anula ese juego. Gana la partida el jugador o pareja que antes logre ganar el número de juegos previamente estipulado.
             </p>
-            
-
-
-            
-            
-
-
-
-
-
-
-
-
-
-
+            <button id='btn' class='BTN' onClick={() => navigate('/game')}>JUEGA AHORA</button>
         </div>
         
     );

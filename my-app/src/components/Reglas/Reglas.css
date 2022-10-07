@@ -21,6 +21,13 @@
     font-weight: bolder;   
     font-size: 25px;
 }
+
+#btn{
+    width: 900px;
+    height: 100px;
+    margin-left: 26%;
+}
+
 #DIS{
     padding-left: 5%;
     width: 50%;
