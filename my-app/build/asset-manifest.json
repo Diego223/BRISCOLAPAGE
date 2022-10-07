@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.67af544d.css",
-    "main.js": "/static/js/main.6d8e49bf.js",
+    "main.css": "/static/css/main.39433237.css",
+    "main.js": "/static/js/main.dca46c01.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/briscacomjugar.jpg": "/static/media/briscacomjugar.fbe1a23dabd2a52e0c5e.jpg",
     "static/media/briscacards.jpg": "/static/media/briscacards.aee9c20a06a03fbc7a6b.jpg",
     "index.html": "/index.html",
-    "main.67af544d.css.map": "/static/css/main.67af544d.css.map",
-    "main.6d8e49bf.js.map": "/static/js/main.6d8e49bf.js.map",
+    "main.39433237.css.map": "/static/css/main.39433237.css.map",
+    "main.dca46c01.js.map": "/static/js/main.dca46c01.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67af544d.css",
-    "static/js/main.6d8e49bf.js"
+    "static/css/main.39433237.css",
+    "static/js/main.dca46c01.js"
   ]
 }
